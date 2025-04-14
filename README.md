@@ -16,7 +16,7 @@
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### MAS官方主页 - [https://massgrave.dev/](https://massgrave.dev/)
 
 <div align="center">
   
@@ -55,3 +55,4 @@
 ---
 
 <p align="center">Made with Love ❤️</p>
+<p align="center">用爱发电 ❤️</p>
