@@ -6,7 +6,7 @@
 
 <hr>
   
-## 下载项目内的MAS/All-In-One-Version-KL/MAS_AIO_Lite.cmd
+## 下载项目内的[MAS/All-In-One-Version-KL/MAS_AIO_Lite.cmd](https://github.com/gerdesi/MAS_Lite_Simplified_Chinese_Translation/blob/master/MAS/All-In-One-Version-KL/MAS_AIO_Lite.cmd)
 ## 并直接以鼠标右键 管理员身份运行 即可
 
 
