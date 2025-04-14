@@ -2,7 +2,7 @@
 
 <h1 align="center">MAS_简体中文汉化精简版</h1>
 
-<p align="center">开源的 Windows 和 Office 激活工具，针对简体中文进行简单汉化，仅保留官方原版的 HWID、Ohook 激活方式，删除掉极少用到的 TSforge、KMS38 及在线 KMS 等激活方式，并精简掉在简中地区无法使用的高级故障排除功能。</p>
+<p align="center">开源的 Windows 和 Office 激活工具，针对简体中文进行简单汉化，加入联网检查以及无用的装饰性类GUI，仅保留官方原版的 HWID、Ohook 激活方式，删除掉极少用到的 TSforge、KMS38 及在线 KMS 等激活方式，并精简掉在简中地区无法使用的高级故障排除功能。</p>
 
 <hr>
   
