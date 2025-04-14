@@ -1,70 +1,18 @@
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">MAS_简体中文汉化精简版</h1>
 
-<p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
+<p align="center">开源的 Windows 和 Office 激活工具，针对简体中文进行简单汉化，仅保留官方原版的 HWID、Ohook 激活方式，删除掉极少用到的 TSforge、KMS38 及在线 KMS 等激活方式，并精简掉在简中地区无法使用的高级故障排除功能。</p>
 
 <hr>
   
-## Download / How to use it?
+## 下载项目内的MAS/All-In-One-Version-KL/MAS_AIO_Lite.cmd
+## 并直接以鼠标右键 管理员身份运行 即可
 
-### Method 1 - PowerShell (Windows 8 and later) ❤️
 
-1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
-2.   Copy and paste the code below and press enter  
-```
-irm https://get.activated.win | iex
-```
-Alternatively, you can use the following (It will be deprecated in the future.)  
-```
-irm https://massgrave.dev/get | iex
-```
-3.   You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
-4.   That's all.
+如果想要以无人值守状态下运行脚本，参考官方的命令行。 [here](https://massgrave.dev/command_line_switches).
 
----
-
-### Method 2 - Traditional (Windows 7 and later)
-
-<details>
-  <summary>Click here for info</summary>
-
-1.   Download the file using the links provided below.  
-`https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
-or  
-`https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
-2.   Right-click on the downloaded zip file and extract
-3.   In the extracted folder, find the folder named `All-In-One-Version`
-4.   Run the file named `MAS_AIO.cmd`
-5.   You will see the activation options, follow the on-screen instructions.
-6.   That's all.
-
-</details>
-
----
-
-### Not working ❓
-
-- If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
-- If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
-- If you have any issues, please feel free to reach out to us [here](https://massgrave.dev/troubleshoot).
-
----
-
-> [!NOTE]
->
-> - The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
-> - Always double-check the URL before executing the command and verify the source if manually downloading files.
-> - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
-
----
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
-
-```
-Latest Version: 3.0
-Release date: 14-Feb-2025
-```
+以下是官方的帮助页面和社群地址。
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
